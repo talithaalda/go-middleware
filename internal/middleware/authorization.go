@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Calmantara/go-kominfo-2024/go-middleware/pkg"
-	"github.com/Calmantara/go-kominfo-2024/go-middleware/pkg/helper"
 	"github.com/gin-gonic/gin"
+	"github.com/talithaalda/go-middleware/pkg"
+	"github.com/talithaalda/go-middleware/pkg/helper"
 )
 
 const (

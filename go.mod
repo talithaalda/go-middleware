@@ -1,4 +1,4 @@
-module github.com/Calmantara/go-kominfo-2024/go-middleware
+module github.com/talithaalda/go-middleware
 
 go 1.22.1
 

@@ -5,9 +5,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Calmantara/go-kominfo-2024/go-middleware/internal/model"
-	"github.com/Calmantara/go-kominfo-2024/go-middleware/internal/repository/mocks"
 	"github.com/stretchr/testify/assert"
+	"github.com/talithaalda/go-middleware/internal/model"
+	"github.com/talithaalda/go-middleware/internal/repository/mocks"
 )
 
 func TestGetUsers(t *testing.T) {

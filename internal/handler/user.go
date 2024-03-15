@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Calmantara/go-kominfo-2024/go-middleware/internal/model"
-	"github.com/Calmantara/go-kominfo-2024/go-middleware/internal/service"
-	"github.com/Calmantara/go-kominfo-2024/go-middleware/pkg"
 	"github.com/gin-gonic/gin"
+	"github.com/talithaalda/go-middleware/internal/model"
+	"github.com/talithaalda/go-middleware/internal/service"
+	"github.com/talithaalda/go-middleware/pkg"
 )
 
 type UserHandler interface {
